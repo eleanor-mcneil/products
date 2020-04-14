@@ -1,6 +1,5 @@
 # Products
 [![Build Status](https://travis-ci.org/stern-devops-2020-products/products.svg?branch=master)](https://travis-ci.org/stern-devops-2020-products/products)
-
 [![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-travis-ci.svg)]()
 
 The products resource represents the store items that the customer can buy. They could be categorized but they don’t have to be for this assignment. They should have a unique id (perhaps a SKU - Stock Keeping Unit), a name, description, price, and others attributes like perhaps an image. 
